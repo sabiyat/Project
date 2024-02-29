@@ -1,3 +1,3 @@
 # Project
 For project done in class
-I'm learning how to create a user interface
+I learned how to create a calculator app that can add, subtract, multiply, and divide.
